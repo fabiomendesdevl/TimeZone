@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\bin\Debug\net7.0\TimeZone.exe
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\bin\Debug\net7.0\TimeZone.deps.json
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\bin\Debug\net7.0\TimeZone.runtimeconfig.json
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\bin\Debug\net7.0\TimeZone.dll
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\bin\Debug\net7.0\TimeZone.pdb
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.dll
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\refint\TimeZone.dll
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.pdb
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\TimeZone.genruntimeconfig.cache
+C:\Users\fabio\Desktop\Nova pasta\TimeZone\TimeZone\obj\Debug\net7.0\ref\TimeZone.dll
